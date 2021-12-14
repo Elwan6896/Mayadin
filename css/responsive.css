@@ -1,0 +1,471 @@
+@media (max-width: 479px){
+.tennis-section {
+    height: 112vh;
+}
+.header .nav {
+    background-color: #000 !important;
+    box-shadow: unset !important;
+    background: unset;
+    background-color: unset;
+}
+.nav.open ul li a {
+    color: #d1154b !important;
+}
+body .more-button-div {
+    margin-top: -70px !important;
+    justify-content: center;
+}
+.menu-item .counter-sp img {
+    width: 24%;
+    float: right;
+    display: inline-block;
+}
+.counter-sp h1 {
+    font-size: 2em;
+    font-weight: 900;
+}
+.counter-sp span {
+    font-size: 0.44em;
+    padding-right: 0;
+    float: left;
+    display: inline-block;
+}
+.menu-item {
+    padding: 20px 7px;
+}
+.counter-sp {
+    margin-left: 10px;
+    border-bottom: 2px solid #d1154b;
+    padding-bottom: 8px;
+    width: 38%;
+}
+.menu-tab-content {
+	padding: 7%;
+}
+.menu-section  {
+	padding-bottom: 0;
+}
+.testimonial-header {
+	padding: 7%;
+}
+
+.testimonial-header h2 {
+    text-align: left !important;
+	padding-bottom: 20px;
+}
+ .testimonial-header .mobile {
+	display: block;
+}
+.testi-item img {
+	width : 100% !important;
+}
+.btn-mobile-show {
+	display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+}
+@media(max-width: 767px){
+  .mobile-hide {
+	    display: none;
+	}
+  #myBtn {
+    display: none !important;
+}
+.header {
+  position: absolute !important;
+  background-color: transparent !important;
+}
+.header .logo > a {
+    left: 39%;
+    position: relative;
+}
+  .head-2 .number {
+    width: 34%;
+    margin: 33% !important;
+}
+.head-2 {
+    height: 100vh !important;
+}
+.head-2 .sub-head {
+    height: 70vh;
+}
+.head-2 .image {
+    position: absolute;
+    bottom: 0;
+    left: 30.4%;
+}
+  .header .nav-toggler.active {
+    right: 3% !important;
+  }
+  body .btn-mobile-show.hide-on-disktop.aos-init.aos-animate {
+      display: flex !important;
+  }
+  .submit-btn hr {
+    width: 22% !important;
+    right: 38% !important;
+}
+.footer .copyright {
+    padding: 4% !important;
+}
+  .home-text {
+    padding: 0 !important;
+    max-width: 700px;
+    margin: auto 0;
+    text-align: left;
+    width: 70% !important;
+    position: relative;
+    left: 45px !important;
+    top: unset !important;
+}
+  .home-section .home-bg {
+    left: 0% !important;
+    background-position-x: 43%;
+  }
+  .head-2 .more span {
+	    display: inline-block;
+	    border: 2px solid #DC143C;
+	    line-height: normal;
+	    cursor: pointer;
+			width: 7% !important;
+ 			position: absolute;
+ 			left: 35.3% !important;
+	}
+	.tennis-section{
+	padding: 0px 14% !important;
+	}
+	.tennis-section p{
+	max-width: unset !important;
+	}
+	.tennis-section {
+	background-size: 138%;
+	background-position-y: 36% !important;
+	padding: 140px 14% !important;
+	background-repeat: no-repeat;
+	background-position-x: 50%;
+	margin-top: 30px;
+	}
+	body .hide-mobile-view{
+	display:  none !important;
+   }
+
+	.followers-section p > img {
+		width: 5%;
+	}
+	.followers-section p span {
+		font-size: 11px;
+		padding: 5px !important;
+	}
+
+	.followers-section h2 {
+		font-size: 1.122em !important;
+		padding-left: 15px;
+	}
+	.followers-section .followers-img {
+    width: 53% !important;
+	}
+	.followers-section .followers {
+    padding-top: 44px !important;
+    padding-left: 18px;
+	}
+	.followers-section hr {
+    width: 90% !important;
+    }
+	.team-section {
+		    height: 68vh;
+	}
+	.map-content {
+    display: block;
+    padding: 0 0px;
+    transform: translatey(117%);
+    min-width: 100%;
+}
+.team-section .shik-zaid h2 {
+    font-size: 1em !important;
+}
+.red-stadium-div {
+    display: flex !important;
+    padding: 0 !important;
+    border-radius: 3rem !important;
+    width: 70% !important;
+}
+.red-stadium-preview {
+	transform: translateY(52px) !important;
+    margin-left: 27% !important;
+	display: block !important;
+}
+.red-stadium-preview .preview-div .the-arrow {
+	width : 13%;
+}
+.red-stadium-preview .red-stadium-div h6 {
+    font-size: 0.68em !important;
+}
+}
+@media (min-width: 768px) and (max-width: 958px) {
+	.head-2 .more {
+    margin: 0 auto;
+}
+.head-2 .more span {
+    width: 7% !important;
+    left: 39.5% !important;
+}
+
+}
+@media(max-width: 958px){
+		.name-smith {
+	display: block !important;
+	text-align: center;
+    padding-top: 20px;
+}
+}
+@media(max-width: 1024px){
+		.about-text.tennis-section.aos-init.aos-animate {
+	background-image: url(../img/tennis-mobile.png);
+	padding: 15%;
+	}
+	.testi-item-1{
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
+}
+@media (min-width: 600px) {
+	.social-links {
+    transform: translateX(145px) !important;
+}
+}
+
+@media(min-width: 768px){
+	.head-2 {
+    width: 60%;
+  }
+  .footer .page-logo {
+    padding: 4% 12% 0 12%;
+}
+.footer .page-logo .footer-span {
+    display: block;
+    width: 11%;
+    text-align: center;
+    margin: -7px auto;
+    color: #656061;
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 55.9%;
+    border: 1px solid #6d6869;
+}
+.footer .page-logo .footer-logo {
+  height: 44px;
+}
+.footer .page-logo p {
+    margin-top: -53px;
+    margin-left: 41%;
+    width: 50%;
+}
+.footer .download {
+    padding: 0 12% 12% 12%;
+}
+.tennis-section {
+    padding: 0px 15%;
+    background-image: url(img/tennis-mobile.png);
+    background-position: center;
+    background-size: 40%;
+    background-repeat: no-repeat;
+  }
+  .followers-section hr {
+    width: 95% !important;
+    }
+	.followers-section .followers-img {
+    width: 22% !important;
+	}
+	.section-title {
+    padding: 0px 7%;
+	}
+	.about-text.tennis-section.aos-init.aos-animate {
+    width: 100%;
+	padding: 15%;
+	padding-right: 0;
+}
+.about-img.aos-init.aos-animate {
+    display: none;
+}
+.counter-sp {
+    border-bottom: 2px solid #707070;
+    margin-left: 10px;
+    padding-bottom: 7px;
+}
+.counter-sp span {
+    font-size: 0.80em;
+}
+.counter-sp img {
+    width: 16%;
+}
+.counter-sp h1 {
+    font-size: 5em;
+    font-weight: 900;
+}
+.menu-tab-content {
+	padding: 7%;
+}
+.testi-row {
+    display: block;
+}
+.testi-item.aos-init.aos-animate {
+    width: 100%;
+}
+.testi-container {
+    text-align: center;
+}
+.testi-item img {
+	width : 37% !important;
+}
+.testi-item-2{
+	text-align:left;
+	padding: 7%;
+}
+.social-links {
+    transform: translateX(177px) !important;
+}
+.team-section {
+	height: 62vh !important;
+}
+.map-content {
+    transform: translatey(212%) !important;
+	padding: 0 33px !important;
+}
+.red-stadium-preview {
+    transform: translateY(26px) !important;
+}
+img.map-number {
+    top: 0 !important;
+}
+}
+@media(min-width: 1025px){
+  .bunner-margin {
+    transform: translateY(67px);
+  }
+	.home-section {
+	float: right;
+    width: 70%;
+	height: 100vh;
+	}
+  .row.justify-content-between.align-items-center {
+    width: 84vw !important;
+    left: 5.7% !important;
+    position: absolute !important;
+}
+    .social-links {
+    transform: translateX(200px) !important;
+}
+	.head-2 {
+    width: 30%;
+    top: 0;
+    height: 100vh;
+    margin: 0;
+  }
+  .head-2 .sub-head {
+    height: 100%;
+  }
+  .head-2 .number {
+    position: absolute;
+  top: 25%;
+  left: 45px;
+  width: 30%;
+  }
+  .head-2 .image {
+    position: absolute;
+    top: 55.6%;
+    margin: 0 0 0 11%;
+  }
+  .head-2 .more {
+    position: absolute;
+    top: 69%;
+    margin: 0 0 0 11%;
+  }
+    .footer .page-logo {
+    padding: 6% 12% 0 12%;
+}
+  .footer .download {
+    padding: 0 12% 6% 12%;
+}
+.tennis-section {
+    background-image: unset;
+    margin-top: 6%;
+  }
+  .about-text.tennis-section.aos-init.aos-animate {
+    width: 70%;
+    padding: 7% 0 0 7%;
+}
+ .about-text.tennis-section.aos-init.aos-animate p {
+    max-width: 600px;
+}
+.about-img.aos-init.aos-animate {
+    display: flex;
+    width: 30%;
+}
+.followers-section .followers-img {
+    width: 15% !important;
+}
+.followers-section .followers-img img {
+	width: 20% !important;
+    margin: 0 5% !important;
+    margin-left: 0% !important;
+}
+.testi-row-descktop{
+	display: flex !important;
+
+}
+.testi-item.aos-init.aos-animate {
+    width: 30%;
+}
+.testi-item-2 {
+	width: 60% !important;
+}
+.testi-item img {
+    width: 69% !important;
+}
+.team-section {
+    height: 122vh !important;
+	padding: 0 !important;
+}
+img.map-number {
+    top: 0 !important;
+}
+.map-content {
+    padding: 0 70px !important;
+	transform: translatey(480%) !important;
+}
+}
+@media(min-width: 1200px){
+	.footer .download {
+    padding: 2% 12% 6% 12%;
+}
+.red-stadium-preview {
+    transform: translateY(60px);
+}
+}
+@media(min-width: 1500px){
+    .social-links {
+    transform: translateX(250px) !important;
+}
+}
+
+@media(min-width: 1600px){
+    .social-links {
+    transform: translateX(300px) !important;
+}
+}
+@media(min-width: 1700px){
+    .social-links {
+    transform: translateX(350px) !important;
+}
+}
+@media(min-width: 1800px){
+    .social-links {
+    transform: translateX(380px) !important;
+}
+}
+@media(min-width: 1850px){
+    .social-links {
+    transform: translateX(400px) !important;
+}
+}
